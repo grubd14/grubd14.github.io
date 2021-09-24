@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>neovim on Blog</title>
-    <link>https://squareflower.github.io/categories/neovim/</link>
+    <link>https://greatsquarecauliflower.github.io/categories/neovim/</link>
     <description>Recent content in neovim on Blog</description>
     <image>
-      <url>https://squareflower.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://squareflower.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://greatsquarecauliflower.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://greatsquarecauliflower.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://squareflower.github.io/categories/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://greatsquarecauliflower.github.io/categories/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neovim</title>
-      <link>https://squareflower.github.io/posts/my-first-post/</link>
+      <link>https://greatsquarecauliflower.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://squareflower.github.io/posts/my-first-post/</guid>
+      <guid>https://greatsquarecauliflower.github.io/posts/my-first-post/</guid>
       <description>Desc Text.</description>
     </item>
     
