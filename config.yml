@@ -1,0 +1,132 @@
+baseURL: "https://squareflower.github.io/"
+title: Blog
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Blog
+    description: "Blog Site for what i Learned"
+    keywords: [Blog, Portfolio, PaperMod]
+    author: Me
+    # author: ["Me", "You"] # multiple authors
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+    ShowReadingTime: false
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "Home"
+        icon: 'https://thumbs.dreamstime.com/b/home-icon-black-background-graphic-web-design-modern-simple-vector-sign-internet-concept-trendy-symbol-website-home-136936502.jpg'
+        iconHeight: 25
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Blog
+        subtitle: "This is subtitle"
+        imageUrl: "https://i.redd.it/024v868900v61.png"
+        imageWidth: 300
+        imageHeight: 300
+        imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    # homeInfoParams:
+    #     Title: "Hi there \U0001F44B"
+    #     Content: Welcome to my blog
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/"
+        - name: reddit
+          url: "https://reddit.com/"
+        - name: facebook
+          url: "https://facebook.com/"
+        - name: twitter
+          url: "https://twitter.com"
+
+
+
+#     cover:
+#         imageUrl: "<https://i.redd.it/024v868900v61.png>"
+#         hidden: false # hide everywhere but not in structured data
+#         hiddenInList: true # hide on list pages and home
+#         hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/<path_to_repo>/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # # for search
+    # # https://fusejs.io/api/options.html
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 20
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 20
+        - identifier: website
+          name: Github
+          url: https://github.com
+          weight: 25
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
+
+
