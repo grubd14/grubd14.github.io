@@ -1,5 +1,5 @@
 ---
-title: "My 1st post"
+title: "Neovim"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -33,12 +33,3 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-jdsjnmsdmnsd sdns dsjsjs jdjdjd s
-jfjkkdvdf vc dsmncsksd
-sdnjsndmsnds
-d,nsmdn,msdn,sm
-dnsmd,sdn,fsndm,sdf
-dsmnfn,msdf,mf,s
-dfmnsdfn,msdf,mfd
-dfnmsdfmdmnsd
-ds,mf,sdm
