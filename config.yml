@@ -97,28 +97,28 @@ params:
 
     # # for search
     # https://fusejs.io/api/options.html
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
         - identifier: categories
           name: categories
           url: /categories/
           weight: 10
-        # - identifier: tags
-        #   name: tags
-        #   url: /tags/
+        # - identifier: search
+        #   name: search
+        #   url: /search/
         #   weight: 20
         - identifier: website
           name: Github
           url: https://github.com/grubd14/grubd14.github.io
-          weight: 20
+          weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
