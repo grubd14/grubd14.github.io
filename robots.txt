@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://greatsquarecauliflower.github.io/sitemap.xml
+Sitemap: https://grubd14.github.io/sitemap.xml
