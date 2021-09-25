@@ -25,7 +25,7 @@ params:
     DateFormat: "January 2, 2006"
     defaultTheme: dark # dark, light
     disableThemeToggle: false
-    ShowReadingTime: false
+    ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
@@ -41,25 +41,25 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
+        favicon: '/favicon.ico'
+        favicon16x16: '/favicon-16x16.png'
+        favicon32x32: '/favicon-32x32.png'
+        apple_touch_icon: '/apple-touch-icon.png'
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: 'https://thumbs.dreamstime.com/b/home-icon-black-background-graphic-web-design-modern-simple-vector-sign-internet-concept-trendy-symbol-website-home-136936502.jpg'
-        iconHeight: 25
+        text: "Blog"
+        icon: '/logo2.ico'
+        iconHeight: 40
 
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
         title: Blog
-        subtitle: "localhost:1313"
-        imageUrl: "https://scontent.fktm8-1.fna.fbcdn.net/v/t1.6435-9/c66.0.394.395a/p526x296/71840414_155133875584926_476339588550361088_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=EnkAOIObJV0AX8NCbwf&_nc_ht=scontent.fktm8-1.fna&oh=d341065c9eadda8dbaef4c9d9b4f4416&oe=61732653"
-        imageWidth: 220
-        imageHeight: 220
+        subtitle: "Welcome to my blog"
+        imageUrl: '/logo.png'
+        imageWidth: 260
+        imageHeight: 260
         imageTitle: my image
         buttons:
             - name: Posts
