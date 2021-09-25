@@ -23,7 +23,7 @@ params:
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
+    defaultTheme: dark # dark, light
     disableThemeToggle: false
     ShowReadingTime: false
     ShowShareButtons: true
@@ -91,12 +91,12 @@ params:
 #         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/grubd14/grubd14.github.io/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
     # # for search
-    # # https://fusejs.io/api/options.html
+    # https://fusejs.io/api/options.html
     # fuseOpts:
     #     isCaseSensitive: false
     #     shouldSort: true
@@ -110,15 +110,15 @@ menu:
         - identifier: categories
           name: categories
           url: /categories/
-          weight: 20
+          weight: 10
         # - identifier: tags
         #   name: tags
         #   url: /tags/
         #   weight: 20
         - identifier: website
           name: Github
-          url: https://github.com
-          weight: 25
+          url: https://github.com/grubd14/grubd14.github.io
+          weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
