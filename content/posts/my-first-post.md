@@ -33,5 +33,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
+![example](/screen.png)
 hello build it again

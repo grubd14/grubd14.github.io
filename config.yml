@@ -56,10 +56,10 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Blog
-        subtitle: "This is subtitle"
-        imageUrl: "https://i.redd.it/024v868900v61.png"
-        imageWidth: 300
-        imageHeight: 300
+        subtitle: "localhost:1313"
+        imageUrl: "https://scontent.fktm8-1.fna.fbcdn.net/v/t1.6435-9/c66.0.394.395a/p526x296/71840414_155133875584926_476339588550361088_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=EnkAOIObJV0AX8NCbwf&_nc_ht=scontent.fktm8-1.fna&oh=d341065c9eadda8dbaef4c9d9b4f4416&oe=61732653"
+        imageWidth: 220
+        imageHeight: 220
         imageTitle: my image
         buttons:
             - name: Posts
@@ -74,7 +74,7 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/grubd14"
         - name: reddit
           url: "https://reddit.com/"
         - name: facebook
@@ -97,14 +97,14 @@ params:
 
     # # for search
     # https://fusejs.io/api/options.html
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 0
-        distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
-        keys: ["title", "permalink", "summary", "content"]
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
         - identifier: categories
