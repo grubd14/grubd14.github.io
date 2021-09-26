@@ -1,6 +1,6 @@
 ---
-title: "Neovim"
-date: 2020-09-15T11:30:03+00:00
+title: "Installing unstable version of neovim in Ubuntu based distros"
+date: 2021-9-26
 # weight: 1
 # aliases: ["/first"]
 categories: ["neovim"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Unstable version of neovim"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -29,9 +29,10 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/grubd14/grubd14.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 ![example](/screen.png)
-hello build it again
+There are several ways of installing neovim in ubuntu but the most easiest way is to add 
+unstable PPA from the neovim community
