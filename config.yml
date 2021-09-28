@@ -8,35 +8,22 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
-
 minify:
     disableXML: true
     minifyOutput: true
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Blog
+    title: g14
     description: "Blog Site for what i Learned"
     keywords: [Blog, Portfolio, PaperMod]
-    author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
     defaultTheme: dark # dark, light
     disableThemeToggle: false
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    comments: false
-    hidemeta: false
-    hideSummary: false
-    showtoc: false
-    tocopen: false
+
+
 
     assets:
         # disableHLJS: true # to disable highlight.js
@@ -48,7 +35,7 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Blog"
+        text: "grubd14"
         icon: '/logo2.ico'
         iconHeight: 40
 
@@ -58,15 +45,18 @@ params:
         title: Blog
         subtitle: "Welcome to my blog"
         imageUrl: '/logo.png'
-        imageWidth: 260
-        imageHeight: 260
+        imageWidth: 300
+        imageHeight: 300
         imageTitle: my image
         buttons:
             - name: Posts
               url: posts
             - name: Tags
               url: tags
-
+    markup:
+        highlight:
+             style: monokai
+             codeFences: true
     # home-info mode
     # homeInfoParams:
     #     Title: "Hi there \U0001F44B"
@@ -84,16 +74,8 @@ params:
 
 
 
-#     cover:
-#         imageUrl: "<https://i.redd.it/024v868900v61.png>"
-#         hidden: false # hide everywhere but not in structured data
-#         hiddenInList: true # hide on list pages and home
-#         hiddenInSingle: true # hide on single page
-
-    editPost:
-        URL: "https://github.com/grubd14/grubd14.github.io/"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    cover:
+        responsiveImages: true
 
     # # for search
     # https://fusejs.io/api/options.html
