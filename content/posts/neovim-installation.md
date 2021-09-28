@@ -6,7 +6,7 @@ date: 2021-9-26
 categories: ["neovim"]
 author: "Sushil"
 showToc: true
-TocOpen: true 
+TocOpen: false 
 draft: false
 hidemeta: false
 comments: false

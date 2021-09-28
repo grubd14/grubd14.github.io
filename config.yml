@@ -22,7 +22,7 @@ params:
     DateFormat: "January 2, 2006"
     defaultTheme: dark # dark, light
     disableThemeToggle: false
-
+    hideFooter: true
 
 
     assets:
@@ -36,7 +36,7 @@ params:
 
     label:
         text: "grubd14"
-        icon: '/logo2.ico'
+        icon: '/home.svg'
         iconHeight: 40
 
     # profile-mode
