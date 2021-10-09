@@ -23,6 +23,7 @@ params:
     defaultTheme: dark # dark, light
     disableThemeToggle: false
     hideFooter: true
+    ShowShareButtons: true
 
 
     assets:
@@ -51,12 +52,12 @@ params:
         buttons:
             - name: Posts
               url: posts
-            - name: Tags
-              url: tags
-    markup:
-        highlight:
-             style: monokai
-             codeFences: true
+            - name: categories
+              url: categories
+    # markup:
+    #     highlight:
+    #          style: monokai
+    #          codeFences: true
     # home-info mode
     # homeInfoParams:
     #     Title: "Hi there \U0001F44B"

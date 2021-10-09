@@ -20,11 +20,12 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowCodeCopyButtons: true
+howCodeCopyButtons: true
 disableSpecial1stPost: false
 disableScrollToTop: false
+ShowShareButtons: true
 cover:
-  image: "/cover-images/cover-neovim.png"
+  image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png"
   alt: "<alt text>" # alt text
   caption: "neovim" # display caption under cover
   relative: false 
