@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog</title>
     <link>https://grubd14.github.io/posts/</link>
     <description>Recent content in Posts on Blog</description>
-    <image>
-      <url>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://grubd14.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,7 +12,8 @@
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://grubd14.github.io/posts/sudo-npm/</guid>
-      <description>neovim for ubuntu</description>
+      <description>NPM NPM is the default package manager for Node.js, a JavaScript runtime environment. Node.js comes packaged with npm which is mostly used for downloading packages from the npmjs repository consisting of opensource packages. There are many more alternatives to npm which provide different client side experience. Yarn is one of the popular alternative to npm which is developed by facebook.
+problem NPM always had its fare share of problems whether it was related to package, package dependencies and many more problems.</description>
     </item>
     
     <item>
@@ -25,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://grubd14.github.io/posts/neovim-installation/</guid>
-      <description>neovim for ubuntu</description>
+      <description>Neovim Neovim is a great piece of software if you are looking for an alternative to vim. Neovim is a fork of Vim with more features as well as bugs. But neovim community is very active so must of the bugs are fixed quickly. Neovim is in eary stages. Stable version 0.5.1 was relased recently which brings great features like native LSP and support for lua scripting language. Neovim has transitioned away from vimscript which is quite slow compared to lua.</description>
     </item>
     
   </channel>

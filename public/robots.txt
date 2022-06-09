@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://grubd14.github.io/sitemap.xml
