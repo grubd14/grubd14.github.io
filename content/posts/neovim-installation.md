@@ -72,4 +72,4 @@ chmod +x neovim.appimage
 mv neovim.appimage /home/computer/.local/bin
 ```
 4. After moving neovim to local bin directory you can rename the neovim appimage to just *nvim* for convenience to launch through terminal.
-5. Now just type nvim and press enter into terminal.
+5. Now just type nvim and press Enter into terminal.
