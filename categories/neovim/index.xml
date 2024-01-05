@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neovim on Blog</title>
     <link>https://grubd14.github.io/categories/neovim/</link>
@@ -9,15 +9,15 @@
       <url>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://grubd14.github.io/categories/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://grubd14.github.io/categories/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing neovim in Ubuntu based distros</title>
       <link>https://grubd14.github.io/posts/neovim-installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://grubd14.github.io/posts/neovim-installation/</guid>
       <description>neovim for ubuntu</description>
     </item>
-    
   </channel>
 </rss>
