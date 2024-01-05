@@ -15,7 +15,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: g14
-    description: "Blog Site for what i Learned"
+    description: "Blog Site for what I Learned"
     keywords: [Blog, Portfolio, PaperMod]
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
