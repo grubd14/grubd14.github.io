@@ -12,12 +12,6 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 
-cover:
-  image: "/cover-images/cover-snapshot.png"
-  alt: "<alt text>" # alt text
-  caption: "btrfs" # display caption under cover
-  relative: false
-  hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/grubd14/grubd14.github.io/content"
     Text: "Suggest Changes" # edit text

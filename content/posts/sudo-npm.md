@@ -24,12 +24,7 @@ ShowCodeCopyButtons: true
 disableSpecial1stPost: false
 disableScrollToTop: false
 
-cover:
-  image: "/cover-images/cover-npm.png"
-  alt: "<alt text>" # alt text
-  caption: "npm" # display caption under cover
-  relative: false 
-  hidden: true # only hide on current single page
+
 editPost:
     URL: "https://github.com/grubd14/grubd14.github.io/content"
     Text: "Suggest Changes" # edit text
