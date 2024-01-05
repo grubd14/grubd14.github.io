@@ -4,17 +4,21 @@
     <title>npm on Blog</title>
     <link>https://grubd14.github.io/categories/npm/</link>
     <description>Recent content in npm on Blog</description>
+    <image>
+      <title>Blog</title>
+      <url>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://grubd14.github.io/categories/npm/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://grubd14.github.io/categories/npm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Global Packages in NPM without using SUDO privelages</title>
       <link>https://grubd14.github.io/posts/sudo-npm/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://grubd14.github.io/posts/sudo-npm/</guid>
-      <description>NPM NPM is the default package manager for Node.js, a JavaScript runtime environment. Node.js comes packaged with npm which is mostly used for downloading packages from the npmjs repository consisting of opensource packages. There are many more alternatives to npm which provide different client side experience. Yarn is one of the popular alternative to npm which is developed by facebook.
-problem NPM always had its fare share of problems whether it was related to package, package dependencies and many more problems.</description>
+      <description>neovim for ubuntu</description>
     </item>
-    
   </channel>
 </rss>
