@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 20:57:17 +0545</lastBuildDate>
     <atom:link href="https://grubd14.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All the hardware configuration for Thinkapd E14 Gen4</title>
+      <link>https://grubd14.github.io/posts/e14-hardware-config/</link>
+      <pubDate>Fri, 28 Jun 2024 20:57:17 +0545</pubDate>
+      <guid>https://grubd14.github.io/posts/e14-hardware-config/</guid>
+      <description>some system configuration for thinkpad e14 for linux</description>
+    </item>
     <item>
       <title>Setting up and managing btrfs filesystem</title>
       <link>https://grubd14.github.io/posts/btrfs/</link>

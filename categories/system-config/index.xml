@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System-Config on Blog</title>
+    <link>https://grubd14.github.io/categories/system-config/</link>
+    <description>Recent content in System-Config on Blog</description>
+    <image>
+      <title>Blog</title>
+      <url>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://grubd14.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jun 2024 20:57:17 +0545</lastBuildDate>
+    <atom:link href="https://grubd14.github.io/categories/system-config/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All the hardware configuration for Thinkapd E14 Gen4</title>
+      <link>https://grubd14.github.io/posts/e14-hardware-config/</link>
+      <pubDate>Fri, 28 Jun 2024 20:57:17 +0545</pubDate>
+      <guid>https://grubd14.github.io/posts/e14-hardware-config/</guid>
+      <description>some system configuration for thinkpad e14 for linux</description>
+    </item>
+  </channel>
+</rss>
