@@ -1,15 +1,24 @@
 ---
-title: "All the hardware configuration for Thinkapd E14 Gen4"
+title: "Hardware configs for Thinkapd E14 Gen4 in linux"
 date: 2024-06-28T20:57:17+05:45
 categories: ["system-config"]
+author: "Sushil"
 description: "some system configuration for thinkpad e14 for linux"
+showToc: true
+canonicalURL: "https://canonical.url/to/page"
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowCodeCopyButtons: true
 editPost:
     URL: "https://github.com/grubd14/grubd14.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+## configs
+Some of the changes in my linux distro to make my hardware work in linux
 
-# Configs
 ## Wifi Issue
 Some of the major hurdles I faced after installing linux on my Thinkpad e14 was of WiFi.
 It randomly disconnected after few minutes of use and would again connect if I restarted.
